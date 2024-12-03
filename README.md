@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Personal Portfolio](https://ruturajbhausahebkhade.github.io/Portfolio/)
 
-- 🌱 I’m currently learning **React, MongoDB, MySQL**
+- 🌱 I’m currently learning **React,MySQL**
 
 - 👯 I’m looking to collaborate on **React Projects**
 
